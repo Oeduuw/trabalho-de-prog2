@@ -33,7 +33,7 @@ void gerenciador()
                 alterarShow();
                 break;
             case 0:
-                printf("Retomando...");
+                printf("Retomando...\n");
                 break;
             default:
                 printf("Funcao invalida.\n");
