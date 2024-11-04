@@ -32,6 +32,8 @@ void gerenciador()
             case 3:
                 alterarShow();
                 break;
+            case 0:
+                break;
             default:
                 printf("Funcao invalida.\n");
         }
